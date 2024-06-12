@@ -1,5 +1,7 @@
 # Hackintosh, Gigabyte B760M Aorus Elite, Core i7 14700KF, RX 6600 and AirDrop
 
+![Overview](https://github.com/luchina-gabriel/EFI-GIGABYTE-B760M-AORUS-ELITE-Core-i7-14700KF-RX-6600-PUBLIC/assets/23700365/e8845ebc-6752-4def-bef3-3f1efaa0d9d9)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sonoma (14.5)
